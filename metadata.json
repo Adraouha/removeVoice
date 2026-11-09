@@ -1,0 +1,6 @@
+{
+  "name": "VocalRemover Pro - Extractor Instrumental y Karaoke",
+  "description": "Herramienta profesional para eliminar la voz de canciones, extraer la música instrumental para karaoke en tiempo real y grabar tu voz.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
